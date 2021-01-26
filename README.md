@@ -1,1 +1,1 @@
-This project showcases several algorithms by showing how they solve Sukodu boards. You can access it here: https://jeremypflipsen.github.io/Sudoku-Visualizer/. Pick an algoithm, load or create a board, and Visualize!
+This project showcases several algorithms by showing how they solve Sudoku boards. You can access it here: https://jeremypflipsen.github.io/Sudoku-Visualizer/. Pick an algoithm, load or create a board, and Visualize!
