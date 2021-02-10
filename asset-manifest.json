@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Sudoku-Visualizer/static/css/main.9a6675d5.chunk.css",
-    "main.js": "/Sudoku-Visualizer/static/js/main.a86e5409.chunk.js",
-    "main.js.map": "/Sudoku-Visualizer/static/js/main.a86e5409.chunk.js.map",
+    "main.js": "/Sudoku-Visualizer/static/js/main.c6ffe210.chunk.js",
+    "main.js.map": "/Sudoku-Visualizer/static/js/main.c6ffe210.chunk.js.map",
     "runtime-main.js": "/Sudoku-Visualizer/static/js/runtime-main.826dbbce.js",
     "runtime-main.js.map": "/Sudoku-Visualizer/static/js/runtime-main.826dbbce.js.map",
     "static/js/2.b416b888.chunk.js": "/Sudoku-Visualizer/static/js/2.b416b888.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.826dbbce.js",
     "static/js/2.b416b888.chunk.js",
     "static/css/main.9a6675d5.chunk.css",
-    "static/js/main.a86e5409.chunk.js"
+    "static/js/main.c6ffe210.chunk.js"
   ]
 }
